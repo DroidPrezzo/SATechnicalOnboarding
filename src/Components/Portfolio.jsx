@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Market Basket Analysis with python in PowerBI 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Uncover the secrets of your customers' shopping behavior with Market Basket Analysis. This is a technique used by large retailers to uncover associations between items. It works by looking for combinations of items that occur together frequently in transactions. I used python in PowerBI to perform this analysis. You can learn with me on YouTube.",
+    url: "https://www.youtube.com/watch?v=tcRy753qvTQ",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Emotion Analysis of Tweets and Reddit Posts using a Pre-trained roBERTa Model from Hugging Face",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "This project involved analyzing over 10,000 Reddit posts and 7,700 tweets to uncover insights into user engagement, emotion trends, and discussion themes around the Israel-Palestine conflict across two major social platforms - Reddit and Twitter.",
+    url: "https://github.com/DroidPrezzo/Emotional_analysis",
   },
   {
-    title: "My Resume Site",
+    title: "Bike Rental Store Data Analysis- Udacity Project",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "This Project uses Python and Pandas to enable a user analyze the data of a Bike rental store for 6 months in three US cities. It gives insight into the operations of the Bike rental store which can be useful for making conclusions or concrete decisions about the store.",
+    url: "https://github.com/DroidPrezzo/pdsnd_github",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "AI Image Classifier - Udacity Project",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "This project is part of Udacity's AI Programming with Python Nanodegree. It classifies images from a dataset using a convolutional neural network built with PyTorch. In this project, I developed code for an image classifier built with PyTorch, then converted it into a command line application.",
+    url: "https://github.com/DroidPrezzo/AI-image-classifier",
   },
 ];
 
