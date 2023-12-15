@@ -37,7 +37,8 @@ const projectList = [
     url: "https://www.youtube.com/watch?v=tcRy753qvTQ",
   },
   {
-    title: "Emotion Analysis of Tweets and Reddit Posts using a Pre-trained roBERTa Model from Hugging Face",
+    title:
+      "Emotion Analysis of Tweets and Reddit Posts using a Pre-trained roBERTa Model from Hugging Face",
     description:
       "This project involved analyzing over 10,000 Reddit posts and 7,700 tweets to uncover insights into user engagement, emotion trends, and discussion themes around the Israel-Palestine conflict across two major social platforms - Reddit and Twitter.",
     url: "https://github.com/DroidPrezzo/Emotional_analysis",
